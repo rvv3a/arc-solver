@@ -113,6 +113,12 @@ Milestone 2 Gradescope result:
 6 correct out of 100
 ```
 
+Milestone 3 Gradescope result:
+
+```text
+9 correct out of 100
+```
+
 Local public-evaluation checks during development:
 
 ```text
